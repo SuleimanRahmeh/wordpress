@@ -1,0 +1,216 @@
+# Translation of Plugins - PDF Embedder - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - PDF Embedder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-29 11:10:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - PDF Embedder - Stable (latest release)\n"
+
+#: src/Admin/Admin.php:136
+msgid "About"
+msgstr "A propos"
+
+#: src/Admin/Partners.php:50
+msgid "Proceed"
+msgstr "Exécuter"
+
+#: src/Admin/Partners.php:49
+msgid "Installing..."
+msgstr "Installation…"
+
+#: src/Admin/Partners.php:47
+msgid "Install"
+msgstr "Installation"
+
+#: src/Admin/Partners.php:46
+msgid "Status: Inactive"
+msgstr "État : inactif"
+
+#: src/Admin/Partners.php:45
+msgid "Deactivating..."
+msgstr "Désactivation…"
+
+#: src/Admin/Partners.php:43 src/Admin/Partners.php:86
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: src/Admin/Partners.php:41
+msgid "Activating..."
+msgstr "Activation…"
+
+#: src/Admin/Partners.php:40 src/Admin/Partners.php:90
+msgid "Activate"
+msgstr "Activer"
+
+#. Description of the plugin
+#: pdf_embedder.php
+msgid "Embed PDFs straight into your posts and pages, with flexible width and height. No third-party services required. Compatible with Gutenberg Editor WordPress"
+msgstr "Embarquer des PDF directement dans vos publications, avec des dimensions flexibles. Aucun service tiers n’est nécessaire. Compatible avec l’éditeur Gutenberg pour WordPress."
+
+#: src/Admin/Admin.php:498
+msgid "The user can also touch and scroll continuously between all pages of the PDF which is much easier than clicking the next/prev buttons to navigate."
+msgstr "L’utilisateur peut aussi toucher et défiler en continu entre toutes les pages du PDF ce qui est beaucoup plus facile que de cliquer sur les boutons suivant / précédent pour naviguer."
+
+#: src/Admin/Admin.php:549
+msgid "Optionally add a watermark containing the user's name or email address to discourage sharing of screenshots."
+msgstr "Optionnellement ajoutez un filigrane contenant le nom d’utilisateur ou l’adresse de messagerie pour décourager le partage des captures d’écran."
+
+#: src/Admin/Admin.php:472
+msgid "Mobile-friendly embedding using PDF Embedder Premium"
+msgstr "Intégration compatible mobile en utilisant PDF Embedder Premium"
+
+#: src/Admin/Admin.php:357 block/build/index.js:1
+msgid "Both"
+msgstr "Tous les deux"
+
+#: src/Admin/License.php:93
+msgid "Unspecified error"
+msgstr "Erreur non spécifiée"
+
+#: src/Admin/Admin.php:133 src/Admin/Admin.php:751
+msgid "Settings"
+msgstr "Réglages"
+
+#: src/Admin/Admin.php:374
+msgid "Toolbar appears only on hover over document"
+msgstr "La barre d’outils apparaît uniquement lors du survol de la souris sur le document"
+
+#: src/Admin/Admin.php:370
+msgid "Toolbar Hover"
+msgstr "Survol de la barre d’outils"
+
+#: src/Admin/Admin.php:380
+msgid "Toolbar always visible"
+msgstr "Barre d’outils toujours visible"
+
+#: src/Admin/Admin.php:545
+msgid "This means that your PDF is unlikely to be shared outside your site where you have no control over who views, prints, or shares it."
+msgstr "Cela signifie que votre PDF ne sera pas partagé en dehors de votre site où vous n’avez aucun contrôle sur ceux qui regardent, impriment ou partagent votre fichier."
+
+#. translators: %s - URL to wp-pdf.com doc.
+#: src/Admin/Admin.php:391
+msgid "You can override these defaults for specific embeds by modifying the shortcodes - see <a href=\"%s\" target=\"_blank\">instructions</a>."
+msgstr "Vous pouvez écraser les réglages par défaut des intégrations spécifiques en modifiant les codes courts - voir les <a href=\"%s\" target=\"_blank\">instructions</a>."
+
+#: src/Admin/Admin.php:354 block/build/index.js:1
+msgid "Bottom"
+msgstr "En bas"
+
+#: src/Admin/Admin.php:323 block/build/index.js:1
+msgid "Height"
+msgstr "Hauteur"
+
+#: src/Admin/Admin.php:351 block/build/index.js:1
+msgid "Top"
+msgstr "En haut"
+
+#: src/Admin/Admin.php:347
+msgid "Toolbar Location"
+msgstr "Emplacement de la barre d’outils"
+
+#: src/Admin/Admin.php:314 block/build/index.js:1
+msgid "Width"
+msgstr "Largeur"
+
+#: src/Admin/Admin.php:309
+msgid "Default Viewer Settings"
+msgstr "Réglages par défaut de la visionneuse"
+
+#: src/Admin/Admin.php:134
+msgid "Mobile"
+msgstr "Mobile"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: pdf_embedder.php src/Admin/Admin.php:100 src/Admin/Admin.php:108
+#: src/Admin/Admin.php:183 src/Admin/MediaLibrary.php:28 block/build/index.js:1
+msgid "PDF Embedder"
+msgstr "PDF Embedder"
+
+#. translators: %s - number of PDF files.
+#: src/Admin/MediaLibrary.php:213
+msgid "PDF <span class=\"count\">(%s)</span>"
+msgid_plural "PDFs <span class=\"count\">(%s)</span>"
+msgstr[0] "PDF <span class=\"count\">(%s)</span>"
+msgstr[1] "PDFs <span class=\"count\">(%s)</span>"
+
+#: src/Admin/MediaLibrary.php:210
+msgid "PDFs"
+msgstr "PDFs"
+
+#: src/Admin/MediaLibrary.php:211
+msgid "Manage PDFs"
+msgstr "Gérer les PDFs"
+
+#: src/Admin/Admin.php:300
+msgid "To use the plugin, just embed PDFs in the same way as you would normally embed images in your posts/pages - but try with a PDF file instead."
+msgstr "Pour utiliser l’extension, intégrez juste les PDF de la même manière que vous intégrez normalement les images dans vos articles / pages - mais essayez avec un fichier PDF à la place."
+
+#: src/Admin/Admin.php:425
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: src/Plugin.php:167
+msgid "View in Full Screen"
+msgstr "Voir en plein écran"
+
+#: src/Plugin.php:166
+msgid "PDF page width or height are invalid"
+msgstr "La largeur ou la hauteur de la page PDF sont non valides"
+
+#: src/Plugin.php:165
+msgid "Click here for more info"
+msgstr "Cliquez ici pour plus d’informations"
+
+#: src/Plugin.php:164
+msgid "Error: URL to the PDF file must be on exactly the same domain as the current web page."
+msgstr "Erreur : l’URL du fichier PDF doit être exactement sur le même domaine que la page web actuelle."
+
+#: src/Admin/Admin.php:99 src/Admin/Admin.php:107
+msgid "PDF Embedder settings"
+msgstr "Réglages de PDF Embedder"
+
+#: src/Plugin.php:158
+msgid "Next page"
+msgstr "Page suivante"
+
+#: src/Plugin.php:163
+msgid "Full Screen"
+msgstr "Plein écran"
+
+#: src/Plugin.php:159
+msgid "Zoom In"
+msgstr "Zoomer"
+
+#: src/Admin/Admin.php:135 src/Admin/Admin.php:753 src/Plugin.php:160
+msgid "Secure"
+msgstr "Sécuriser"
+
+#: src/Plugin.php:162
+msgid "Download PDF"
+msgstr "Télécharger le PDF"
+
+#: src/Plugin.php:161
+msgid "Zoom Out"
+msgstr "Dézoomer"
+
+#: src/Plugin.php:156
+msgid "Zoom"
+msgstr "Zoom"
+
+#: src/Plugin.php:157
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: src/Plugin.php:155
+msgid "Page"
+msgstr "Page"
+
+#: src/Plugin.php:154
+msgid "Loading..."
+msgstr "Chargement&hellip;"
